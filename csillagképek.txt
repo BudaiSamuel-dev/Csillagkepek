@@ -1,0 +1,91 @@
+* *******************************************************
+* Latin név, rövidítés, magyar név, terület (négyzetfok)
+* *******************************************************
+Andromeda, And, Andromeda, 722.278
+Antlia, Ant, Légszivattyú, 238.901
+Apus, Aps, Paradicsommadár, 206.327
+Aquarius, Aqr, Vízöntő, 652.473
+Aquila, Aql, Sas, 979.854
+Ara, Ara, Oltár, 237.057
+Aries, Ari, Kos, 441.395
+Auriga, Aur, Szekeres, 657.438
+Bootes, Boo, Ökörhajcsár, 906.831
+Caelum, Cae, Véső, 124.865
+Camelopardalis, Cam, Zsiráf, 756.828
+Cancer, Cnc, Rák, 505.872
+Canes Venatici, CVn, Vadászebek, 465.194
+Canis Maior, CMa, Nagy Kutya, 380.118
+Canis Minor, CMi, Kis Kutya, 183.367
+Capricornus, Cap, Bak, 413.947
+Carina, Car, Hajógerinc, 494.184
+Cassiopeia, Cas, Cassiopeia, 598.407
+Centaurus, Cen, Kentaur, 1060.422
+Cepheus, Cep, Cepheus, 587.787
+Cetus, Cet, Cet, 1231.411
+Chamaeleon, Cha, Kaméleon, 756.828
+Circinus, Cir, Körző, 93.353
+Columba, Col, Galamb, 270.184
+Coma Berenices, Com, Bereniké haja, 386.475
+Corona Australis, CrA, Déli Korona, 127.696
+Corona Borealis, CrB, Északi Korona, 178.710
+Corvus, Crv, Holló, 183.801
+Crater, Crt, Serleg, 282.398
+Crux, Cru, Dél Keresztje, 68.447
+Cygnus, Cyg, Hattyú, 803.983
+Delphinus, Del, Delfin, 188.549
+Dorado, Dor, Aranyhal, 179.173
+Draco, Dra, Sárkány, 1082.952
+Equuleus, Equ, Csikó, 71.641
+Eridanus, Eri, Eridanus folyó, 1137.919
+Fornax, For, Kemence, 397.502
+Gemini, Gem, Ikrek, 513.761
+Grus, Gru, Daru, 365.513
+Hercules, Her, Herkules, 1225.148
+Horologium, Hor, Ingaóra, 248.885
+Hydra, Hya, Északi Vizikígyó, 1302.844
+Hydrus, Hyi, Déli Vizikígyó, 243.035
+Indus, Ind, Hindu, 294.006
+Lacerta, Lac, Gyík, 200.688
+Leo, Leo, Oroszlán, 946.964
+Leo Minor, LMi, Kis Oroszlán, 231.956
+Lepus, Lep, Nyúl, 290.291
+Libra, Lib, Mérleg, 538.052
+Lupus, Lup, Farkas, 333.683
+Lynx, Lyn, Hiúz, 545.386
+Lyra, Lyr, Lant, 286.476
+Mensa, Men, Táblahegy, 153.484
+Microscopium, Mic, Mikroszkóp, 209.513
+Monoceros, Mon, Egyszarvú, 481.569
+Musca, Mus, Légy, 138.355
+Norma, Nor, Szögmérő, 165.290
+Octans, Oct, Oktáns, 291.045
+Ophiuchus, Oph, Kígyótartó, 948.340
+Orion, Ori, Orion, 594.120
+Pavo, Pav, Páva, 377.666
+Pegasus, Peg, Pegazus, 1120.794
+Perseus, Per, Perzeusz, 614.997
+Phoenix, Phe, Főnix, 469.319
+Pictor, Pic, Festő, 246.739
+Pisces, Psc, Halak, 889.417
+Piscis Austrinis, PsA, Déli Hal, 245.375
+Puppis, Pup, Hajófara, 673.434
+Pyxis, Pyx, Tájoló, 220.833
+Reticulum, Ret, Háló, 113.936
+Sagitta, Sge, Nyíl, 79.932
+Sagittarius, Sgr, Nyilas, 867.432
+Scorpius, Sco, Skorpió, 496.783
+Scutum, Sct, Pajzs, 109.114
+Sculptor, Scl, Szobrász, 474.764
+Serpens, Ser, Kígyó, 636.928
+Sextans, Sex, Szextáns, 313.515
+Taurus, Tau, Bika, 797.249
+Triangulum, Tri, Háromszög, 131.847
+Triangulum Australe, TrA, Déli Háromszög, 109.978
+Telescopium, Tel, Távcső, 251.512
+Tucana, Tuc, Tukán, 294.557
+Ursa Maior, UMa, Nagy Medve, 1279.660
+Ursa Minor, UMi, Kis Medve, 255.864
+Vela, Vel, Vitorla, 499.649
+Virgo, Vir, Szűz, 1294.428
+Volans, Vol, Repülőhal, 141.354
+Vulpecula, Vul, Kis Róka, 268.165

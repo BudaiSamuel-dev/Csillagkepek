@@ -1,0 +1,24 @@
+#hero {
+    background-image: url("../../assets/images/sky.png");
+}
+
+#hero-title {
+    color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+#messier_kep {
+    max-height: 400px;
+    border-radius: 10px;
+    padding:3px;
+    border: 3px solid #404040;
+}
+
+.csk-szam {
+	color: cyan;
+	font-weight: bold;
+}
+
+.justify {
+    text-align: justify;
+}
